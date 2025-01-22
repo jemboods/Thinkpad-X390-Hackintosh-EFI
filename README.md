@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <h1>Device Introduction</h1>
 </head>
 <body>
     <h1>Lenovo ThinkPad Yoga X390 Spesifications</h1>
