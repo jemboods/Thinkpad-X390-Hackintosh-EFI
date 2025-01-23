@@ -46,7 +46,7 @@
         </tr>
         <tr>
             <td>Audio Codecs</td>
-            <td>Realtek 257 (acplid=96)</td>
+            <td>Realtek 257 [0x100001, layout 11, 18, 86, 96, 97, 99, 100, 101]</td>
         </tr>
     </table>
 </body>
