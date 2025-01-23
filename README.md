@@ -22,7 +22,7 @@
         </tr>
         <tr>
             <td>Storage</td>
-            <td>1 TB M.2 NVME Adata Legend 850 Lite/td>
+            <td>1 TB M.2 NVME Adata Legend 850 Lite</td>
         </tr>
         <tr>
             <td>Screen size</td>
