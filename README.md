@@ -44,6 +44,10 @@
             <td>Pre-Installed OS</td>
             <td>Windows 11 Pro</td>
         </tr>
+        <tr>
+            <td>Audio Codecs</td>
+            <td>Realtek 257 (acplid=96)</td>
+        </tr>
     </table>
 </body>
 </html>
